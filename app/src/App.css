@@ -1,0 +1,48 @@
+.App-logo {
+  height: 200px;
+  margin-bottom: 1em;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-header {
+  background-color: #AFD7B4;
+  padding: 2em;
+  color: #3b3b3b;
+  text-align: center;
+}
+
+.App-header p {
+  font-size: 1.25em;
+  font-weight: 500;
+}
+
+.body-content {
+  width: 50vw;
+  max-width: 800px;
+  margin: 2em auto 0;
+}
+
+.convo {
+  font-weight: 500;
+  margin-bottom: 2em;
+}
+
+.form-group label {
+  font-size: .9em;
+  margin-bottom: 0;
+  color: #868686;
+}
+
+button.btn-info {
+  background-color: #AFD7B4;
+  border: none;
+  color: rgb(74, 94, 76);
+  font-weight: 500;
+}
+
+button.btn-info:hover {
+  background-color: #148dcd;
+}
