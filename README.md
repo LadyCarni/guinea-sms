@@ -10,5 +10,6 @@ npm start
 ## front-end
 ```
 cd app
+npm install
 npm start
 ```
